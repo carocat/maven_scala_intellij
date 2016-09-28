@@ -1,11 +1,3 @@
-# scala-maven-template
+# scala-maven-intellij
 
-A generic, maven-based, scala (or java) project template, with *very* basic configuration and initial libraries.
-
-## What you get out-of-the-box
-
-* Scala/Java project structure
-* Scala/Java main classes
-* Scala test example
-* Logback
-* Specs2
+## A basic project which prints numbers and a log message.
