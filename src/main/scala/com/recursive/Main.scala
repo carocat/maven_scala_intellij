@@ -11,7 +11,7 @@ object Main extends App with Logging {
     }
   }
 
-  def msg = "Hi Recursive Center :-D"
+  def msg = "Hi Recurse Center :-D"
   log.info(msg)
 
 }

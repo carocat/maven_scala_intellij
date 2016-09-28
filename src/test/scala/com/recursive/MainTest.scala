@@ -9,7 +9,7 @@ class MainTest extends SpecificationWithJUnit {
 
   "Main" should {
     "have the correct message" in new Context {
-      Main.msg must_== "Hi Recursive Center :-D"
+      Main.msg must_== "Hi Recurse Center :-D"
     }
   }
 }
